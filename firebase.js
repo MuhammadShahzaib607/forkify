@@ -79,7 +79,7 @@ console.log ("user exist nhi karta")
 
 // agar user exist nhi karta tu signup.html page par redirect kar de ga
 setTimeout(()=> {
-  window.location.href = "../signup/signup.html"
+  window.location.href = "../index.html"
 }, 3000)}
 
 })
